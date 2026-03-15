@@ -23,15 +23,24 @@ b {
 #page_2_body #send_now{
     background: linear-gradient(25deg, #a055fa, 50%, #4499f6);
 }
+
+#section_1 h1, 
+#section_1 p.stay-connected {
+  text-align: center;
+  top: 100;
+}
+
+
 #page_2_body #section_1{
-background-image: url('../../assets/img/construction-bg.png') ;
 background-repeat: no-repeat;
 background-size:95%;
 background-position: center;
-
+background-color: rgb(30,30,30);
 }
 #page_2_body .stay-connected{
     color: grey !important;
+    text-align: center;
+    text-align-vertical: center;
 }
 @media (max-width: 768px){
     #page_2_body #section_1{
