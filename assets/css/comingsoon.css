@@ -18,7 +18,7 @@ b {
 }
 /* second page */
 #page_2_body #section_2{
-    background: linear-gradient(25deg, #4499f6, 50%, #a055fa);
+    background: rgb(30,30,30);
 }
 #page_2_body #send_now{
     background: linear-gradient(25deg, #a055fa, 50%, #4499f6);
